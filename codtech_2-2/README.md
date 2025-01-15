@@ -7,8 +7,9 @@
 
 ## Overview of the Project
 
-![image alt](https://github.com/user-attachments/assets/8c3a7bc2-1c8c-4926-95c8-2db96d4b858a)
 ![image alt](https://github.com/user-attachments/assets/c4f2ae64-1de5-4629-8de6-ec6930867484)
+![image alt](https://github.com/user-attachments/assets/8c3a7bc2-1c8c-4926-95c8-2db96d4b858a)
+
 
 
 ### Project: TO-DO LIST WEB APPLICATION
