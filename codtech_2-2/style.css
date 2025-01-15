@@ -1,0 +1,108 @@
+:root {
+    --neon-blue: #00f3ff;
+    --neon-pink: #ff00ff;
+    --dark-bg: #1a1a1a;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: var(--dark-bg);
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+    text-shadow: 0 0 10px var(--neon-blue);
+}
+
+.video-container {
+    display: flex;                 /* making Flexbox */
+    justify-content: center;       /* horizontal center */
+    align-items: center;           /* vertical center */
+    margin-bottom: 30px;
+    border: 2px solid var(--neon-blue);
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px var(--neon-blue);
+    height: 100%;                  /* Ensure it has a height to center content vertically */
+}
+video {
+    width: 100%;
+    display: block;
+}
+
+.quiz-container {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    border: 2px solid var(--neon-pink);
+    box-shadow: 0 0 20px var(--neon-pink);
+    margin-top: 20px;
+}
+
+.question {
+    display: none;
+    margin-bottom: 20px;
+}
+
+.question.active {
+    display: block;
+}
+
+.options {
+    display: grid;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+button {
+    background: transparent;
+    color: white;
+    border: 1px solid var(--neon-blue);
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+button:hover {
+    background: var(--neon-blue);
+    box-shadow: 0 0 10px var(--neon-blue);
+}
+
+.progress-container {
+    margin-top: 20px;
+    border: 1px solid var(--neon-pink);
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.progress-bar {
+    height: 20px;
+    width: 0%;
+    background: var(--neon-pink);
+    border-radius: 3px;
+    transition: width 0.5s;
+    box-shadow: 0 0 10px var(--neon-pink);
+}
+
+.score {
+    text-align: center;
+    margin-top: 10px;
+    color: var(--neon-blue);
+    text-shadow: 0 0 5px var(--neon-blue);
+}
+
+.feedback {
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}

@@ -1,1 +1,88 @@
-<!--  -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Learning Platform</title>
+    <link rel="stylesheet" href="./style.css">
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Welcome to my Custom Learning Platform</h1>
+        </div>
+
+        <div class="video-container">
+            <!-- embedding youtube video -->
+            <iframe width="854px" height="480px" src="https://www.youtube.com/embed/Edsxf_NBFrw?start=0"
+                title="YouTube video player" allow="autoplay; encrypted-media; picture-in-picture; fullscreen"
+                allowfullscreen>
+            </iframe>
+
+        </div>
+
+        <br><br><br>
+        <hr>
+        <h2>Are you ready for the test</h2>
+        <div class="quiz-container">
+            <h2>Let's check how much you have learn</h2>
+            <div id="questions">
+                <div class="question active" data-correct="1">
+                    <h3>Question 1: What is HTML?</h3>
+                    <div class="options">
+                        <button>Hypertext Markup Language</button>
+                        <button>High Technical Modern Language</button>
+                        <button>Hyper Transfer Markup Level</button>
+                    </div>
+                </div>
+
+                <div class="question" data-correct="2">
+                    <h3>Question 2: Which is a CSS property?</h3>
+                    <div class="options">
+                        <button>print-style</button>
+                        <button>background-color</button>
+                        <button>text-type</button>
+                    </div>
+                </div>
+
+                <div class="question" data-correct="0">
+                    <h3>Question 3: What does JavaScript do?</h3>
+                    <div class="options">
+                        <button>Adds interactivity to websites</button>
+                        <button>Only styles web pages</button>
+                        <button>Creates database structures</button>
+                    </div>
+                </div>
+
+                <div class="question" data-correct="1">
+                    <h3>Question 4: What is responsive design?</h3>
+                    <div class="options">
+                        <button>Websites that load fast</button>
+                        <button>Websites that adapt to different screen sizes</button>
+                        <button>Websites with animations</button>
+                    </div>
+                </div>
+
+                <div class="question" data-correct="2">
+                    <h3>Question 5: Which is a valid color value?</h3>
+                    <div class="options">
+                        <button>color-blue</button>
+                        <button>blue-color</button>
+                        <button>#0000FF</button>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar"></div>
+            </div>
+            <div class="score">Score: <span id="score">0</span>/5</div>
+            <div class="feedback"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
