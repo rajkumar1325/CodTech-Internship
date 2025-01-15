@@ -4,13 +4,14 @@
 **Domain:** FULL STACK WEB DEVELOPMENT  
 **Duration:** DECEMBER 17 2024 - FEBRUARY 17 2024  
 
+# Project: Online Learning Platform
 
-## Overview of the Project
 
 ![image alt](https://github.com/user-attachments/assets/c4f2ae64-1de5-4629-8de6-ec6930867484)
 ![image alt](https://github.com/user-attachments/assets/027d98ba-90a4-4164-ba4b-f6cc26f8c618)
 
 
+## Overview of the Project
 
 ### Project: Online Learning Platform
 
