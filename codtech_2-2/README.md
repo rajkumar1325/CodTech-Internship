@@ -1,4 +1,4 @@
-**Name:** RAJ KUMAR  
+![Screenshot (671)](https://github.com/user-attachments/assets/0f9567f2-1441-4515-a5f4-f634553ec843)**Name:** RAJ KUMAR  
 **Company**: CODTECH IT SOLUTIONS  
 **Id:** CT12EAZ  
 **Domain:** FULL STACK WEB DEVELOPMENT  
@@ -6,69 +6,55 @@
 
 
 ## Overview of the Project
-![image alt](https://github.com/user-attachments/assets/a25625f0-cce4-4e87-8ef3-53893390e37d)
-![image alt](https://github.com/user-attachments/assets/40948019-5681-4082-9698-898796184313)
+
+![image alt](https://github.com/user-attachments/assets/8c3a7bc2-1c8c-4926-95c8-2db96d4b858a)
+![image alt](https://github.com/user-attachments/assets/c4f2ae64-1de5-4629-8de6-ec6930867484)
 
 
 ### Project: TO-DO LIST WEB APPLICATION
 
-This project is a **dynamic and responsive Todo List Application** built using HTML, CSS, and JavaScript. It enables users to efficiently manage their tasks by allowing them to add, mark as complete, and delete tasks. The application provides a seamless user experience with an intuitive interface and visually appealing design.
+The Online Learning Platform is a modern and interactive web application designed to deliver an engaging educational experience. It features a user-friendly interface with dynamic quiz functionality, animated feedback systems, and responsive design for seamless usage across devices. This project serves as an excellent tool for enhancing knowledge through interactive learning, making it ideal for students and professionals alike.
 
 ### Objective
 
-The primary objective of this project is to provide a lightweight and user-friendly task management solution. It focuses on:
-- Simplifying the process of task tracking.
-- Offering a visually engaging and interactive interface for managing daily activities.
-- Ensuring data persistence during a browser session using session storage.
-
+To design and develop an engaging and interactive online learning platform that allows users to access quizzes and educational content. The platform aims to enhance the learning experience through visually appealing design and responsive functionality.
 
 
 
 ### Key Activities
 
-1. **Task Management**:
-   - Adding new tasks to the list.
-   - Marking tasks as completed, with a clear visual distinction for completed tasks.
-   - Removing tasks from the list.
+1. **Homepage Design**:
+   - Developed an attractive homepage with an introduction to the platform’s purpose and features. Incorporated animated text and call-to-action buttons to improve user engagement.
+     
+2. **Quiz Section**:
+   - Created an interactive quiz feature where users can test their knowledge. Questions are displayed dynamically, and scores are updated in real time.
+     
+3. **Responsive Navigation Bar**:
+   - Implemented a fixed navigation bar with hover effects and dropdown options for seamless user navigation across pages.
 
-2. **Timestamp Feature**:
-   - Displaying the current date and time, dynamically updated every second for real-time context.
+4. **User Progress Tracker**:
+   - Developed a progress tracker to display the user’s score visually with dynamic animations.
 
-3. **Data Persistence**:
-   - Storing tasks in `sessionStorage` to maintain the task list during the browser session.
-
-4. **Enhanced Security**:
-   - Implementing measures to prevent Cross-Site Scripting (XSS) by escaping user input.
-
-5. **Interactive UI**:
-   - Responsive design with hover effects, animations, and modern styling to enhance the user experience.
+5. **Responsive Design**:
+   - Ensured compatibility across various devices and screen sizes using CSS media queries, allowing smooth accessibility on mobile, tablet, and desktop.
 
 
 
 ### Technology Used
 
-1. **HTML**:
-   - Structuring the layout and elements of the Todo List Application.
+1. **HTML5**:
+   - Structured the webpage content and quiz feature.
 
-2. **CSS**:
-   - Styling the application, including animations, hover effects, and gradient backgrounds, to provide a polished and professional look.
+2. **CSS3**:
+   - Styled the platform with modern design trends and animations.
 
 3. **JavaScript**:
-   - Implementing the core functionality of the Todo List, including task management, event handling, and timestamp updates.
-   - Utilizing DOM manipulation for rendering tasks dynamically.
-   - Storing data securely in `sessionStorage`.
+   - Added functionality for dynamic quiz interactions, score calculation, and real-time feedback.
 
+4. **Keyframes Animation**:
+   - Used for smooth transitions in feedback messages and the progress tracker.
 
-
+5. **Event Listeners**:
+   - Used JavaScript event listeners for handling user interactions like quiz responses and form submissions.
 ### Additional Features
 
-- **Animation Effects**:
-   Tasks appear with a smooth slide-in animation when added.
-
-- **Cross-Device Compatibility**:
-   The application is responsive and functions well across different screen sizes.
-
-- **Intuitive Input Handling**:
-   Users can add tasks by pressing the "Enter" key or clicking the "Add" button.
-
-This project serves as a foundational tool for task management, showcasing modern web development practices and user-centric design. It can be further expanded by incorporating features like user authentication, cloud-based storage, or integration with calendar APIs.
