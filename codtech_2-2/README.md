@@ -1,4 +1,4 @@
-![Screenshot (671)](https://github.com/user-attachments/assets/0f9567f2-1441-4515-a5f4-f634553ec843)**Name:** RAJ KUMAR  
+
 **Company**: CODTECH IT SOLUTIONS  
 **Id:** CT12EAZ  
 **Domain:** FULL STACK WEB DEVELOPMENT  
