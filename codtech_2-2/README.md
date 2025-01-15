@@ -12,7 +12,7 @@
 
 
 
-### Project: TO-DO LIST WEB APPLICATION
+### Project: Online Learning Platform
 
 The Online Learning Platform is a modern and interactive web application designed to deliver an engaging educational experience. It features a user-friendly interface with dynamic quiz functionality, animated feedback systems, and responsive design for seamless usage across devices. This project serves as an excellent tool for enhancing knowledge through interactive learning, making it ideal for students and professionals alike.
 
@@ -57,5 +57,4 @@ To design and develop an engaging and interactive online learning platform that 
 
 5. **Event Listeners**:
    - Used JavaScript event listeners for handling user interactions like quiz responses and form submissions.
-### Additional Features
 
