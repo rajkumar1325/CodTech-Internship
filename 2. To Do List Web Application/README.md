@@ -9,8 +9,9 @@ This project is a **dynamic and responsive Todo List Application** built using H
 
 
 ### Project: TO-DO LIST WEB APPLICATION
-![image alt](https://github.com/user-attachments/assets/a25625f0-cce4-4e87-8ef3-53893390e37d)
-![image alt](https://github.com/user-attachments/assets/40948019-5681-4082-9698-898796184313)
+![image 1](https://github.com/user-attachments/assets/c5616fbb-477f-4e86-ab58-8b26c2801c07)
+![image 2](https://github.com/user-attachments/assets/51e7e624-316a-4682-966f-c7c086fffa1b)
+
 
 
 
