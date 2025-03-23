@@ -12,7 +12,6 @@
 DEMO of completion of the test
 ![Screenshot (672)](https://github.com/user-attachments/assets/ce133220-db60-4c94-a457-3bf7415418d7)
 
-
 ## Overview of the Project
 
 ### Project: Online Learning Platform
