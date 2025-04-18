@@ -5,7 +5,6 @@
 **Duration:** DECEMBER 17 2024 - FEBRUARY 17 2024  
 
 
-
 ### Overview of the Project
 
 ## Project: WEATHER FORECAST CHANNEL
